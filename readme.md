@@ -7,6 +7,7 @@
 * Adding asset images.
 * Adding border radius.
 * setting svg image as background using absolute positioning in top, right corner.
+[Deployed Link](https://interior-design-landing-page-clone.netlify.app/)
 
 
 ![thumbnail](thumb.png)
